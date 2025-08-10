@@ -4,4 +4,7 @@
 双击main.py程序运行；
 ctrl+c 暂停轮回
 
+注意事项：
+确保电脑安装python环境
+
 文字文本来源 github.com/YezQiu/Tiemu
