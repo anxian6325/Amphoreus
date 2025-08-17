@@ -6,5 +6,6 @@ ctrl+c 暂停轮回
 
 注意事项：
 确保电脑安装python环境
+使用前请删除savegame.json
 
 文字文本来源 github.com/YezQiu/Tiemu
